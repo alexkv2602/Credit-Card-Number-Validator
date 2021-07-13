@@ -13,7 +13,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* [Набор валидных карт](http://localhost:63342/untitled/cards%20number.html?_ijt=235cebkhbfc3g6l055huppn45l) 
+* [Набор валидных карт](https://github.com/alexkv2602/Credit-Card-Number-Validator/blob/master/cards%20number.html) 
 
 
 
