@@ -62,5 +62,6 @@ American Express (AMEX):
 * 377061947709587 result is ok
 
 Тестирование производилось в следующем окружении:
-* Windows 10 X64
-* java 16
+* Windows 10, 64-ядерная операционная система,
+* Openjdk version "11.0.11" 2021-04-20
+* IntelliJ IDEA 2021.1.1 (Commynity Edition)
